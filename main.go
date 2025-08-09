@@ -5,8 +5,7 @@ import (
 	"embed"
 	"io"
 	"log"
-	"net/htt
-	p"
+	"net/http"
 	"os"
 
 	"github.com/go-chi/chi"
